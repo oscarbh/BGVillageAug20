@@ -2490,3 +2490,11 @@ body.openpush.remveovrly .headersec.fxdhdr {
 		padding-top: 15px !important;
 		padding-bottom: 15px !important;
 	}
+
+.WhatWeDoSec .WhatWeDoCol:first-child {
+    max-width: 40% !important;
+}
+
+.WhatWeDoSec .WhatWeDoCol:second-child {
+    max-width: 60% !important;
+}
